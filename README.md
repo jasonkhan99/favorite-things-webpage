@@ -18,7 +18,7 @@ There are no known bugs at this time.
 
 ## Support and Contact Details
 
-If there are any issues or questions, please contact us at <hannah.beinstein@gmail.com> <jasonderekkhan@gmail.com>
+If there are any issues or questions, please contact us at <hannah.beinstein@gmail.com> or <jasonderekkhan@gmail.com>
 
 ## Technologies Used
 
@@ -34,4 +34,4 @@ If there are any issues or questions, please contact us at <hannah.beinstein@gma
 
 *This project uses the following license: [MIT](https://opensource.org/licenses/MIT)*
 
-Copyright (c) 2020 **_Jason Khan_** **_Hannah Beinstein_**
+Copyright (c) 2020 **_Jason Khan_**, **_Hannah Beinstein_**
